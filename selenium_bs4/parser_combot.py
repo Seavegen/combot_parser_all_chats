@@ -7,7 +7,7 @@ import os
 
 def main() -> None:
     print("pls wait...")
-    # get_result_from_genirate()
+
     get_all_parsing_pages()
 
 
